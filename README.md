@@ -5,9 +5,11 @@ Home: https://github.com/pmaupin/pdfrw
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pdfrw-feedstock/blob/master/LICENSE.txt)
 
 Summary: pdfrw is a Python library and utility that reads and writes PDF files
+
+Development: https://github.com/pmaupin/pdfrw
 
 Operations include subsetting, merging, rotating, modifying metadata, etc.
 The fastest pure Python PDF parser available
@@ -122,7 +124,4 @@ Feedstock Maintainers
 =====================
 
 * [@bryanwweber](https://github.com/bryanwweber/)
-
-
-<!-- dummy commit to enable rerendering -->
 
